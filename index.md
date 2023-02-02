@@ -1,9 +1,11 @@
 # Mind Map of Concepts in ML
 
+<div class="fs-5 col-md-8">
+
 Mental map of [all the ML learning I'm doing.](https://vickiboykis.com/2022/11/10/how-i-learn-machine-learning/) It's not in any kind of order except categorical. Each document is potentially complete or I'm still taking notes on it. All notes will be updated sporadically. 
 
----
-
+</div>
+<hr class="col-3 col-md-2 mb-5">
 <img src="alice.jpg" width="300" height="300">
 
 ## Recsys
@@ -50,5 +52,7 @@ Mental map of [all the ML learning I'm doing.](https://vickiboykis.com/2022/11/1
 - [Recsys 2022](https://docs.google.com/document/d/e/2PACX-1vRl0D-7pIC6X0tErwV9LzEOtJZKvvA0xgjhNQ9uy84uVIHJ6lW1tbgFz_FjP_ulOqgZNgkEd_xm_esV/pub)
 - [CIKM 2022](https://docs.google.com/document/d/e/2PACX-1vTikkI6w3onrOOrxx4SaJPkLVinGzgq0hQ85AHchsR6W5rV1iY6Yd02ht1hzMsir2W2QqDcq_CtCfHT/pub)
             
+
+<br>
 
 [All PRs and Typos go here.](https://github.com/veekaybee/ml-garden)
