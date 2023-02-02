@@ -1,9 +1,7 @@
 # Mind Map of Concepts in ML
 
 <div class="fs-5 col-md-8">
-
-Mental map of [all the ML learning I'm doing.](https://vickiboykis.com/2022/11/10/how-i-learn-machine-learning/) It's not in any kind of order except categorical. Each document is potentially complete or I'm still taking notes on it. All notes will be updated sporadically. 
-
+Mental map of <a href="https://vickiboykis.com/2022/11/10/how-i-learn-machine-learning/">all the ML learning I'm doing.</a> It's not in any kind of order except categorical. Each document is potentially complete or I'm still taking notes on it. All notes will be updated sporadically. 
 </div>
 <hr class="col-3 col-md-2 mb-5">
 <img src="alice.jpg" width="300" height="300">
